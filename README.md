@@ -22,7 +22,7 @@ A simple, developer-friendly starter template with **Next.js v15** and **Supabas
 1. **Clone this repo**
 
 ```bash
-git clone https://github.com/your-username/nextjs-supabase-auth-starter.git
+git clone https://github.com/Utkarshvr/nextjs-supabase-authentication-starter
 cd nextjs-supabase-auth-starter
 ```
 
